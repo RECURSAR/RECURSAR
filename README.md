@@ -44,14 +44,14 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IIIIIGODIIIII&theme=dark&hide_border=true"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIIIIGODIIIII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RECURSAR&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RECURSAR&theme=dark&hide_border=true"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RECURSAR&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=IIIIIGODIIIII&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=RECURSAR&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
